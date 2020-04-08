@@ -1,4 +1,4 @@
-# crypto-viewer
+# Crypto Top 100
 
 ## Project setup
 ```
